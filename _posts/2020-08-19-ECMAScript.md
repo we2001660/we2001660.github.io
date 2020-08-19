@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
-author: "Bart Simpson"
-meta: "Springfield"
+title: "ECMAScript语法"
+subtitle: "前端必会"
+date:   2020-08-20 21:21:21 +0530
+categories: ["语言语法常用模块"]
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
